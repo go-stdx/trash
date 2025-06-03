@@ -1,0 +1,3 @@
+# trash
+
+Go package to trash files, based on this [specification](https://specifications.freedesktop.org/trash-spec/1.0/). 
